@@ -9,12 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-
-
-    <artifactId>play-entity</artifactId>
-    <dependencies>
-
-    </dependencies>
+    <artifactId>play-constant</artifactId>
 
 
 </project>

@@ -11,7 +11,7 @@ import java.sql.Timestamp;
 public class Account extends BaseEntity {
     private Long id;
 
-    private String accountId;
+    private String uniqueId;
 
     private String username;
 
