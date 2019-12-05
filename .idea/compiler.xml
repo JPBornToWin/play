@@ -12,13 +12,12 @@
         <module name="play-utils" />
       </profile>
     </annotationProcessing>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="play-constant" options="-parameters" />
-      <module name="play-dao" options="-parameters" />
-      <module name="play-entity" options="-parameters" />
-      <module name="play-utils" options="-parameters" />
-    </option>
+    <bytecodeTargetLevel>
+      <module name="play-constant" target="1.8" />
+      <module name="play-dao" target="1.8" />
+      <module name="play-entity" target="1.8" />
+      <module name="play-parent" target="1.8" />
+      <module name="play-utils" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

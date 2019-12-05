@@ -6,9 +6,7 @@ import lombok.Data;
 public class CharRoomDetails extends ChatRoom {
     private Long id;
 
-    private Long roomId;
-
-    private Long builder;
+    private Long builderId;
 
     private String roomNumber;
 
