@@ -25,7 +25,7 @@
         <play.version>1.0-SNAPSHOT</play.version>
         <java.version>1.8</java.version>
         <lombok.version>1.18.8</lombok.version>
-        <spring.start.web.version>2.1.7.RELEASE</spring.start.web.version>
+        <spring.start.web.version>2.5.12</spring.start.web.version>
         <mybatis.plus.version>3.1.0</mybatis.plus.version>
     </properties>
     <dependencyManagement>
